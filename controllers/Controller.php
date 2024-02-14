@@ -8,7 +8,7 @@ use Utils\FlashMessageHelper;
 class Controller
 {
 
-    protected static function view($view, $title = 'Produtos e Pedidos')
+    protected static function view($view, $title = 'Meu Contador Digital')
     {
         $layout["title"] = $title;
         $layout["childView"] = "view/". $view . ".php";
