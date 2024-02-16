@@ -1,6 +1,6 @@
 <?php
 
-// require_once "controllers/ExampleController.php";
+// require_once "controller/ExampleController.php";
 
 class Route
 {

@@ -1,5 +1,5 @@
 <?php
-namespace Controllers;
+namespace Controller;
 
 require_once __DIR__."/../utils/FlashMessageHelper.php";
 
